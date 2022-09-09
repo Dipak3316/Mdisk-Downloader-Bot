@@ -6,9 +6,9 @@
 
 ## Variables
 
-- `HASH` Your API Hash from my.telegram.org
-- `ID` Your API ID from my.telegram.org
-- `TOKEN` Your bot token from @BotFather
+- `fc9412e1c9d603666043fbcd4f31844b` Your API Hash from my.telegram.org
+- `10361383` Your API ID from my.telegram.org
+- `5677060908:AAH3ElNpeULxRth9ke2Qz9AanLh2R6tTyrs` Your bot token from @BotFather
 
 ### Optionals ( if it's empty then everyone can use the bot )
 
